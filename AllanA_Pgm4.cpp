@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MOWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 4: Bar Graph, File:AllanA_Pgm4, Due:10/19/2022
+//Program 4: Bar Graph, File:AllanA_Pgm4
 
 /*
 Purpose: To produce a bar graph based on data values contained in various data files
